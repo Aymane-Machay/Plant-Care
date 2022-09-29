@@ -4,4 +4,4 @@ DataSet used: Personal Dataset gathered throught the web<br />
 Language: Python<br />
 Library: Tensorflow<br />
 Article reviews are used as a starting point refrence, they can be found in the "Research Material" Branch<br />
-Model not included: file size exeed github 100mb capacity
+All in one model not included: file size exceeds github 100mb capacity
